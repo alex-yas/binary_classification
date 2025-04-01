@@ -1,0 +1,5 @@
+matplotlib
+seaborn
+openpyxl
+pandas
+scikit-learn
